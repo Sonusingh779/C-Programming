@@ -3,7 +3,7 @@ int main()
 {
     int n;
     printf("Enter your choice : ");
-    scanf("%d",&n);
+    scanf("%d",&n); // this variable will be assigned for switch choice values.
 
     switch(n)
     {
